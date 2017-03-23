@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<opml version="2.0">
+  <head>
+    <title>PHP Feeds</title>
+  </head>
+  <body>
+    <outline text="Adam Culp" type="rss" title="Adam Culp" description="" xmlUrl="http://www.geekyboy.com/feed" htmlUrl="http://www.geekyboy.com/" language="en-US"/>
+    <outline text="Alan Knowles" type="rss" title="Alan Knowles" description="" xmlUrl="http://roojs.com/index.php/BlogRSS/264/PHP.xml" htmlUrl="http://roojs.com/index.php/BlogCategory/264/PHP.html" language="en-US"/>
+    <outline text="Andi Gutmans" type="rss" title="Andi Gutmans" description="" xmlUrl="http://andigutmans.blogspot.com/feeds/posts/default" htmlUrl="http://andigutmans.blogspot.com/" language="en-US"/>
+    <outline text="Anna Filina" type="rss" title="Anna Filina" description="" xmlUrl="http://afilina.com/feed/" htmlUrl="http://afilina.com/" language="en-US"/>
+    <outline text="Anthony Ferrara" type="rss" title="Anthony Ferrara" description="" xmlUrl="http://blog.ircmaxell.com/feeds/posts/default/-/PHP" htmlUrl="http://blog.ircmaxell.com/search/label/PHP" language="en-US"/>
+    <outline text="Arnold Daniels" type="rss" title="Arnold Daniels" description="" xmlUrl="http://blog.jasny.net/feed/" htmlUrl="http://blog.jasny.net/articles/" language="en-US"/>
+    <outline text="Bart McLeod" type="rss" title="Bart McLeod" description="" xmlUrl="http://spaceweb.nl/feed/" htmlUrl="http://spaceweb.nl/" language="en-US"/>
+    <outline text="Beau Simensen" type="rss" title="Beau Simensen" description="" xmlUrl="http://ddd.io/atom.xml" htmlUrl="http://ddd.io/" language="en-US"/>
+    <outline text="Ben Edmunds" type="rss" title="Ben Edmunds" description="" xmlUrl="http://benedmunds.com/atom.xml" htmlUrl="http://benedmunds.com/" language="en-US"/>
+    <outline text="Benjamin Eberlei" type="rss" title="Benjamin Eberlei" description="" xmlUrl="http://www.whitewashing.de/rss.xml" htmlUrl="http://www.whitewashing.de/" language="en-US"/>
+    <outline text="Ben Marks" type="rss" title="Ben Marks" description="" xmlUrl="http://bhmarks.com/blog/feed/" htmlUrl="http://bhmarks.com/blog/" language="en-US"/>
+    <outline text="Bernhard Schussek" type="rss" title="Bernhard Schussek" description="" xmlUrl="https://webmozart.io/blog/atom.xml" htmlUrl="https://webmozart.io/blog/" language="en-US"/>
+    <outline text="Bertrand Mansion" type="rss" title="Bertrand Mansion" description="" xmlUrl="http://mansion.im/category/php/feed/" htmlUrl="http://mansion.im/category/php/" language="en-US"/>
+    <outline text="Brandon Savage" type="rss" title="Brandon Savage" description="" xmlUrl="http://www.brandonsavage.net/feed/" htmlUrl="http://www.brandonsavage.net/blog/" language="en-US"/>
+    <outline text="Cal Evans" type="rss" title="Cal Evans" description="" xmlUrl="http://feeds.feedburner.com/PostcardsFromMyLife" htmlUrl="https://blog.calevans.com/" language="en-US"/>
+    <outline text="Carlos Buenosvinos" type="rss" title="Carlos Buenosvinos" description="" xmlUrl="http://carlosbuenosvinos.com/feed/" htmlUrl="http://carlosbuenosvinos.com/" language="en-US"/>
+    <outline text="Chris Cornutt" type="rss" title="Chris Cornutt" description="" xmlUrl="http://blog.phpdeveloper.org/feed/" htmlUrl="http://blog.phpdeveloper.org/" language="en-US"/>
+    <outline text="Christian Soronellas" type="rss" title="Christian Soronellas" description="" xmlUrl="http://theunic.github.io/atom.xml" htmlUrl="http://theunic.github.io/" language="en-US"/>
+    <outline text="Christian Weiske" type="rss" title="Christian Weiske" description="" xmlUrl="http://cweiske.de/tagebuch/feed/php" htmlUrl="http://cweiske.de/tagebuch/tag/php" language="en-US"/>
+    <outline text="Dave Marshall" type="rss" title="Dave Marshall" description="" xmlUrl="http://davedevelopment.co.uk/atom.xml" htmlUrl="http://davedevelopment.co.uk/" language="en-US"/>
+    <outline text="Davey Shafik" type="rss" title="Davey Shafik" description="" xmlUrl="https://www.daveyshafik.com/feed" htmlUrl="https://www.daveyshafik.com/" language="en-US"/>
+    <outline text="David Stockton" type="rss" title="David Stockton" description="" xmlUrl="http://davidstockton.com/feed" htmlUrl="http://davidstockton.com/" language="en-US"/>
+    <outline text="Dayle Rees" type="rss" title="Dayle Rees" description="" xmlUrl="http://daylerees.com/rss/" htmlUrl="http://daylerees.com/" language="en-US"/>
+    <outline text="Derick Rethans" type="rss" title="Derick Rethans" description="" xmlUrl="http://derickrethans.nl/feed-php.xml" htmlUrl="http://derickrethans.nl/" language="en-US"/>
+    <outline text="Edd Mann" type="rss" title="Edd Mann" description="" xmlUrl="http://eddmann.com/rss.xml" htmlUrl="http://eddmann.com/" language="en-US"/>
+    <outline text="Ed Finkler" type="rss" title="Ed Finkler" description="" xmlUrl="http://funkatron.com/posts.xml" htmlUrl="http://funkatron.com/" language="en-US"/>
+    <outline text="Eli White" type="rss" title="Eli White" description="" xmlUrl="http://eliw.com/feed/" htmlUrl="http://eliw.com/" language="en-US"/>
+    <outline text="Elizabeth Naramore" type="rss" title="Elizabeth Naramore" description="" xmlUrl="http://naramore.net/blog/tag/PHP/atom" htmlUrl="http://naramore.net/blog/tag/PHP" language="en-US"/>
+    <outline text="Evert Pot" type="rss" title="Evert Pot" description="" xmlUrl="http://feeds.feedburner.com/bijsterespoor" htmlUrl="https://evertpot.com/" language="en-US"/>
+    <outline text="Fabien Potencier" type="rss" title="Fabien Potencier" description="" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp" htmlUrl="http://fabien.potencier.org/" language="en-US"/>
+    <outline text="Fraser Hart" type="rss" title="Fraser Hart" description="" xmlUrl="http://blog.fraser-hart.co.uk/feed/" htmlUrl="http://blog.fraser-hart.co.uk/" language="en-US"/>
+    <outline text="Freek Van der Herten" type="rss" title="Freek Van der Herten" description="" xmlUrl="https://murze.be/feed/" htmlUrl="https://murze.be/" language="en-US"/>
+    <outline text="Full Stack Radio" type="rss" title="Full Stack Radio" description="" xmlUrl="http://simplecast.fm/podcasts/279/rss" htmlUrl="http://www.fullstackradio.com/" language="en-US"/>
+    <outline text="Hasin Hayder" type="rss" title="Hasin Hayder" description="" xmlUrl="http://hasin.me/feed/" htmlUrl="http://hasin.me/" language="en-US"/>
+    <outline text="Ilia Alshanetsky" type="rss" title="Ilia Alshanetsky" description="" xmlUrl="https://ilia.ws/feeds/index.rss2" htmlUrl="https://ilia.ws/" language="en-US"/>
+    <outline text="imagine easy / dev" type="rss" title="imagine easy / dev" description="" xmlUrl="http://dev.imagineeasy.com/rss" htmlUrl="http://dev.imagineeasy.com/" language="en-US"/>
+    <outline text="Jeff Carouth" type="rss" title="Jeff Carouth" description="" xmlUrl="https://carouth.com/atom.xml" htmlUrl="https://carouth.com/" language="en-US"/>
+    <outline text="Joe Devon" type="rss" title="Joe Devon" description="" xmlUrl="http://dws.la/author/joedevon/feed/" htmlUrl="http://dws.la/author/joedevon/" language="en-US"/>
+    <outline text="Jordi Boggiano" type="rss" title="Jordi Boggiano" description="" xmlUrl="http://feeds.seld.be/blog-seld" htmlUrl="http://seld.be/" language="en-US"/>
+    <outline text="Joshua Thijssen" type="rss" title="Joshua Thijssen" description="" xmlUrl="https://www.adayinthelifeof.nl/feed/" htmlUrl="https://www.adayinthelifeof.nl/" language="en-US"/>
+    <outline text="Juan Manuel Torres" type="rss" title="Juan Manuel Torres" description="" xmlUrl="http://onema.io/blog?format=RSS" htmlUrl="http://onema.io/blog" language="en-US"/>
+    <outline text="Kelt Dockins" type="rss" title="Kelt Dockins" description="" xmlUrl="http://keltdockins.com/atom.xml" htmlUrl="http://keltdockins.com/" language="en-US"/>
+    <outline text="Kevin Dunglas" type="rss" title="Kevin Dunglas" description="" xmlUrl="http://feeds.feedburner.com/dunglas" htmlUrl="https://dunglas.fr/" language="en-US"/>
+    <outline text="Keyvan Akbary" type="rss" title="Keyvan Akbary" description="" xmlUrl="http://keyvanakbary.com/feed.xml" htmlUrl="http://keyvanakbary.com/" language="en-US"/>
+    <outline text="Khayrattee Wasseem" type="rss" title="Khayrattee Wasseem" description="" xmlUrl="http://7php.com/feed/" htmlUrl="http://7php.com/" language="en-US"/>
+    <outline text="Kristopher Wilson" type="rss" title="Kristopher Wilson" description="" xmlUrl="http://kristopherwilson.com/feed.rss" htmlUrl="http://kristopherwilson.com/" language="en-US"/>
+    <outline text="Laravel News" type="rss" title="Laravel News" description="" xmlUrl="http://feed.laravel-news.com/" htmlUrl="https://laravel-news.com/" language="en-US"/>
+    <outline text="Larry Garfield" type="rss" title="Larry Garfield" description="" xmlUrl="http://www.garfieldtech.com/topics/web-development/php/feed" htmlUrl="http://www.garfieldtech.com/taxonomy/term/5/0" language="en-US"/>
+    <outline text="Lately in PHP Podcast" type="rss" title="Lately in PHP Podcast" description="" xmlUrl="http://feeds.feedburner.com/phpclassesblog-xml" htmlUrl="http://www.phpclasses.org/blog/category/podcast/" language="en-US"/>
+    <outline text="Lorna Jane Mitchell" type="rss" title="Lorna Jane Mitchell" description="" xmlUrl="http://feeds.feedburner.com/lornajane" htmlUrl="http://www.lornajane.net/blog" language="en-US"/>
+    <outline text="Lukas Smith" type="rss" title="Lukas Smith" description="" xmlUrl="https://pooteeweet.org/rss.xml" htmlUrl="http://pooteeweet.org" language="en-US"/>
+    <outline text="MageTalk" type="rss" title="MageTalk" description="" xmlUrl="http://magetalk.com/feed/" htmlUrl="http://magetalk.com/" language="en-US"/>
+    <outline text="Matt Frost" type="rss" title="Matt Frost" description="" xmlUrl="http://shortwhitebaldguy.com/blog/rss/all.rss" htmlUrl="http://shortwhitebaldguy.com/" language="en-US"/>
+    <outline text="Matthew Setter" type="rss" title="Matthew Setter" description="" xmlUrl="http://www.matthewsetter.com/atom.xml" htmlUrl="http://www.matthewsetter.com/blog/" language="en-US"/>
+    <outline text="Matthew Turland" type="rss" title="Matthew Turland" description="" xmlUrl="http://matthewturland.com/feed/" htmlUrl="http://matthewturland.com/" language="en-US"/>
+    <outline text="Matthew Weier O'Phinney" type="rss" title="Matthew Weier O'Phinney" description="" xmlUrl="https://mwop.net/blog/rss.xml" htmlUrl="https://mwop.net/blog" language="en-US"/>
+    <outline text="Matthias Noback" type="rss" title="Matthias Noback" description="" xmlUrl="http://php-and-symfony.matthiasnoback.nl/atom.xml" htmlUrl="http://php-and-symfony.matthiasnoback.nl/" language="en-US"/>
+    <outline text="Matt Stauffer" type="rss" title="Matt Stauffer" description="" xmlUrl="https://mattstauffer.co/blog/feed.atom" htmlUrl="https://mattstauffer.co/" language="en-US"/>
+    <outline text="Michael Kimsal" type="rss" title="Michael Kimsal" description="" xmlUrl="http://michaelkimsal.com/blog/feed/" htmlUrl="http://michaelkimsal.com/blog/" language="en-US"/>
+    <outline text="Michelangelo van Dam" type="rss" title="Michelangelo van Dam" description="" xmlUrl="http://feeds.feedburner.com/dragonbe" htmlUrl="http://www.dragonbe.com/" language="en-US"/>
+    <outline text="Nikita Popov" type="rss" title="Nikita Popov" description="" xmlUrl="http://nikic.github.io/rss.xml" htmlUrl="http://nikic.github.io/" language="en-US"/>
+    <outline text="Oscar Merida" type="rss" title="Oscar Merida" description="" xmlUrl="http://oscarm.org/feed/" htmlUrl="http://oscarm.org/" language="en-US"/>
+    <outline text="Padraic Brady" type="rss" title="Padraic Brady" description="" xmlUrl="http://blog.astrumfutura.com/feed/" htmlUrl="http://blog.astrumfutura.com/" language="en-US"/>
+    <outline text="Paul Jones" type="rss" title="Paul Jones" description="" xmlUrl="http://paul-m-jones.com/feed" htmlUrl="http://paul-m-jones.com/" language="en-US"/>
+    <outline text="Paul Reinheimer" type="rss" title="Paul Reinheimer" description="" xmlUrl="http://blog.preinheimer.com/index.php?/feeds/index.rss2" htmlUrl="http://blog.preinheimer.com/" language="en-US"/>
+    <outline text="Phil Sturgeon" type="rss" title="Phil Sturgeon" description="" xmlUrl="https://philsturgeon.uk/feed.xml" htmlUrl="https://philsturgeon.uk/" language="en-US"/>
+    <outline text="PHP: Hypertext Preprocessor" type="rss" title="PHP: Hypertext Preprocessor" description="" xmlUrl="http://php.net/releases/feed.php" htmlUrl="http://php.net/" language="en-US"/>
+    <outline text="PHP Town Hall" type="rss" title="PHP Town Hall" description="" xmlUrl="http://feeds.feedburner.com/phptownhall/drDl" htmlUrl="http://phptownhall.com/" language="en-US"/>
+    <outline text="Rafael Dohms" type="rss" title="Rafael Dohms" description="" xmlUrl="http://feeds.feedburner.com/RafaelDohms" htmlUrl="http://blog.doh.ms/" language="en-US"/>
+    <outline text="Sara Golemon" type="rss" title="Sara Golemon" description="" xmlUrl="http://blog.golemon.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.golemon.com/" language="en-US"/>
+    <outline text="Simon Holywell" type="rss" title="Simon Holywell" description="" xmlUrl="https://feeds.feedburner.com/SimonHolywell" htmlUrl="https://www.simonholywell.com/" language="en-US"/>
+    <outline text="Stefan Koopmanschap" type="rss" title="Stefan Koopmanschap" description="" xmlUrl="http://leftontheweb.com/atom.xml" htmlUrl="http://leftontheweb.com/" language="en-US"/>
+    <outline text="Steve Corona" type="rss" title="Steve Corona" description="" xmlUrl="http://feeds.feedburner.com/stevecorona" htmlUrl="https://stevecorona.com/" language="en-US"/>
+    <outline text="Stuart Herbert" type="rss" title="Stuart Herbert" description="" xmlUrl="http://blog.stuartherbert.com/php/feed/" htmlUrl="http://blog.stuartherbert.com/php/" language="en-US"/>
+    <outline text="Symfony Finland" type="rss" title="Symfony Finland" description="" xmlUrl="https://www.symfony.fi/rss/feed.rss" htmlUrl="https://www.symfony.fi/" language="en-US"/>
+    <outline text="Taylor Otwell" type="rss" title="Taylor Otwell" description="" xmlUrl="http://taylorotwell.com/feed/" htmlUrl="http://taylorotwell.com/" language="en-US"/>
+    <outline text="That Podcast" type="rss" title="That Podcast" description="" xmlUrl="https://thatpodcast.io/itunes.rss" htmlUrl="https://thatpodcast.io/" language="en-US"/>
+    <outline text="The Laravel Podcast" type="rss" title="The Laravel Podcast" description="" xmlUrl="http://simplecast.fm/podcasts/351/rss" htmlUrl="http://www.laravelpodcast.com/" language="en-US"/>
+    <outline text="Three Devs and a Maybe" type="rss" title="Three Devs and a Maybe" description="" xmlUrl="http://threedevsandamaybe.com/podcast.xml" htmlUrl="http://threedevsandamaybe.com/" language="en-US"/>
+    <outline text="Voices of the ElePHPant" type="rss" title="Voices of the ElePHPant" description="" xmlUrl="http://feeds.feedburner.com/VoicesOfTheElephpant" htmlUrl="https://voicesoftheelephpant.com/" language="en-US"/>
+    <outline text="Yitzchak Schaffer" type="rss" title="Yitzchak Schaffer" description="" xmlUrl="http://yitzofthebits.com/feed.xml" htmlUrl="http://yitzofthebits.com/" language="en-US"/>
+    <outline text="Yitzchok Willroth" type="rss" title="Yitzchok Willroth" description="" xmlUrl="https://coderabbi.github.io/feed.xml" htmlUrl="https://coderabbi.github.io/" language="en-US"/>
+    <outline text="Zeev Suraski" type="rss" title="Zeev Suraski" description="" xmlUrl="http://zsuraski.blogspot.com/feeds/posts/default" htmlUrl="http://zsuraski.blogspot.com/" language="en-US"/>
+    <outline text="/dev/hell" type="rss" title="/dev/hell" description="" xmlUrl="http://feeds.devhell.info/devhell-podcast" htmlUrl="http://devhell.info/" language="en-US"/>
+  </body>
+</opml>

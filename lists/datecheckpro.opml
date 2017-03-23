@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>river.datecheckpro.com</title>
+		<dateModified>Fri, 05 Dec 2014 18:25:25 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="Across the Aisle: News and Perspectives from GMA" description="Grocery Manufacturers Association" htmlUrl="http://www.gmaonline.org/blog" language="en" title="Across the Aisle: News and Perspectives from GMA" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/AcrossTheAisle"/>
+		<outline text="FMI News" description="News from the Food Marketing Institute" htmlUrl="http://www.fmi.org/" language="en-US" title="FMI News" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/FMI-News"/>
+		<outline text="Supermarket News" description="" htmlUrl="http://supermarketnews.com/rss.xml" language="en" title="Supermarket News" type="rss" version="RSS2" xmlUrl="http://supermarketnews.com/rss.xml"/>
+		<outline text="Shelby Report" description="The Shelby Report.com" htmlUrl="" language="en-US" title="Shelby Report" type="rss" version="RSS2" xmlUrl="http://www.theshelbyreport.com/feed/"/>
+		</body>
+	</opml>
