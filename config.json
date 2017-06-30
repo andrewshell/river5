@@ -16,5 +16,6 @@
         "remotePassword": "r0ckst4r",
         "flMaintainCalendarStructure": false,
         "httpPort": 1600,
-        "webSocketPort": 1601
+        "webSocketPort": 1601,
+	"flDownloadPodcasts": false
 	}
