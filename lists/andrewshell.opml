@@ -3,7 +3,7 @@
 	<head>
 		<title>river.andrewshell.org</title>
 		<dateCreated>Wed, 05 Feb 2014 07:00:28 GMT</dateCreated>
-		<dateModified>Mon, 21 Nov 2016 16:18:49 GMT</dateModified>
+		<dateModified>Mon, 11 Sep 2017 15:06:00 GMT</dateModified>
 		<ownerName></ownerName>
 		<ownerEmail></ownerEmail>
 		<expansionState></expansionState>
@@ -12,57 +12,25 @@
 		<windowLeft>77</windowLeft>
 		<windowBottom>653</windowBottom>
 		<windowRight>1006</windowRight>
-		<lastCursor>30</lastCursor>
+		<lastCursor>18</lastCursor>
 		</head>
 	<body>
-		<outline text="AllThingsD" type="rss" xmlUrl="http://allthingsd.com/feed/" title="AllThingsD" description="" htmlUrl="http://allthingsd.com" language="en-US"/>
-		<outline text="Startup and Tech News - Madison Startups" type="rss" xmlUrl="http://www.madisonstartups.com/feed/" htmlUrl="http://www.madisonstartups.com"/>
-		<outline text="AppleInsider - Frontpage News" type="rss" xmlUrl="http://appleinsider.com.feedsportal.com/c/33975/f/616168/index.rss" title="AppleInsider - Frontpage News" description="AppleInsider News" htmlUrl="http://appleinsider.com" language="en-us"/>
 		<outline text="Boing Boing" type="rss" xmlUrl="http://feeds.boingboing.net/boingboing/iBag" title="Boing Boing" description="Brain candy for Happy Mutants" htmlUrl="http://boingboing.net" language="en-US"/>
-		<outline text="Business - MIT Technology Review" type="rss" xmlUrl="http://www.technologyreview.com/business/rss/" title="Business - MIT Technology Review" description="" htmlUrl="http://www.technologyreview.com/stream/10102/?sort=recent" language="en"/>
 		<outline text="Business Insider" type="rss" xmlUrl="http://feeds2.feedburner.com/businessinsider" title="Business Insider" description="The latest news from Business Insider" htmlUrl="http://www.businessinsider.com" language="en-us"/>
-		<outline text="Businessweek.com -- Top News" type="rss" xmlUrl="http://www.businessweek.com/feeds/homepage.rss" title="Businessweek.com -- Top News" description="" htmlUrl="http://businessweek.com" language="en-us"/>
-		<outline text="Capital Entrepreneurs" type="rss" xmlUrl="http://www.capitalentrepreneurs.com/feed/" title="Capital Entrepreneurs" description="Fostering entrepreneurship in Madison, Wisconsin" htmlUrl="http://www.capitalentrepreneurs.com" language="en-US"/>
-		<outline text="Computing - MIT Technology Review" type="rss" xmlUrl="http://www.technologyreview.com/computing/rss/" title="Computing - MIT Technology Review" description="" htmlUrl="http://www.technologyreview.com/stream/10104/?sort=recent" language="en"/>
 		<outline text="Engadget RSS Feed" type="rss" xmlUrl="http://feeds.engadget.com/weblogsinc/engadget" title="Engadget RSS Feed" description="Engadget" htmlUrl="http://www.engadget.com" language="en-us"/>
-		<outline text="Fastlane Entrepreneurs" type="rss" xmlUrl="http://feeds.feedburner.com/TheMillionaireFastlane" title="Fastlane Entrepreneurs" description="Entrepreneurs Engaged in a Fastlane Business Strategy" htmlUrl="http://www.fastlaneentrepreneurs.com" language="en-US"/>
-		<outline text="Glass" type="rss" xmlUrl="http://glass.qz.com/notes/rss" title="Glass" description="Obsessed with the future of TV" htmlUrl="http://glass.qz.com/notes/rss" language="en-us"/>
-		<outline text="HBR.org" type="rss" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness?format=xml" title="HBR.org" htmlUrl=""/>
 		<outline text="Hacker News Firehose" type="rss" xmlUrl="http://hn.geekity.com/newstories.xml" title="Hacker News" description="Links for the intellectually curious, ranked by readers." htmlUrl="https://news.ycombinator.com/newest"/>
-		<outline text="Linux Journal" type="rss" xmlUrl="http://feeds.feedburner.com/linuxjournalcom" title="Linux Journal - The Original Magazine of the Linux Community" description="Since 1994: The Original Monthly Magazine of the Linux Community" htmlUrl="http://www.linuxjournal.com/" language="en"/>
 		<outline text="MacRumors" type="rss" xmlUrl="http://feeds.macrumors.com/MacRumors-Front" title="MacRumors: Mac News and Rumors - Front Page" description="the mac news you care about" htmlUrl="http://www.macrumors.com" language="en"/>
-		<outline text="Channel 3000" type="rss" xmlUrl="http://www.channel3000.com/-/1656/16042556/-/format/rss_2.0/view/asFeed/-/12usxxn/-/index.xml" title="More Local News" description="" htmlUrl="http://www.channel3000.com/16042556" language="en-US"/>
-		<outline text="The Guardian" type="rss" xmlUrl="http://feeds.guardian.co.uk/theguardian/rss" title="Network Front | The Guardian" description="Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice" htmlUrl="http://www.theguardian.com/uk" language="en-gb"/>
-		<outline text="Nieman Journalism Lab" type="rss" xmlUrl="http://feeds.feedburner.com/NiemanJournalismLab?format=xml" title="Nieman Journalism Lab" description="A collaborative effort to figure out the future of journalism. A project of Harvard University." htmlUrl="http://www.niemanlab.org" language="en-US"/>
 		<outline text="PandoDaily" type="rss" xmlUrl="http://pandodaily.com/feed/" title="PandoDaily" description="speaking truth to the new power" htmlUrl="http://pando.com" language="en"/>
 		<outline text="Philip Greenspun's Weblog" type="rss" xmlUrl="http://blogs.law.harvard.edu/philg/feed/" title="Philip Greenspun's Weblog" description="A posting every day; an interesting idea every three months..." htmlUrl="http://blogs.law.harvard.edu/philg" language="en-US"/>
-		<outline text="Planet PHP" type="include" url="http://river4.geekity.com/lists/php.opml"/>
-		<outline text="InfoQ" type="rss" xmlUrl="http://www.infoq.com/rss/rss.action?token=43tjyIR2rFdjuYfLq1EEtKUcdx4PlVJp" description="InfoQ feed" htmlUrl="http://www.infoq.com"/>
-		<outline text="Business 2 Community" type="rss" xmlUrl="http://feeds.feedburner.com/b2cmarketinginsider" description="Top Trends, News &amp; Expert Analysis" htmlUrl="http://www.business2community.com"/>
-		<outline text="Habitica" type="rss" xmlUrl="https://habitica.wordpress.com/feed/" description="get organized. stay motivated. have fun." htmlUrl="https://habitica.wordpress.com"/>
-		<outline text="WSJ.com: WSJD" type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7455.xml" description="WSJD - Technology" htmlUrl="http://online.wsj.com"/>
-		<outline text="WSJ.com: US Business" type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7014.xml" description="US Business" htmlUrl="http://online.wsj.com"/>
-		<outline text="WSJ.com: World News" type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7085.xml" description="World News" htmlUrl="http://online.wsj.com/page/2_0006.html"/>
-		<outline text="WSJ.com: Opinion" type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7041.xml" description="Opinion" htmlUrl="http://online.wsj.com/opinion"/>
-		<outline text="WSJ.com: Markets" type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7031.xml" description="Markets" htmlUrl="http://online.wsj.com"/>
-		<outline text="WSJ.com: Lifestyle" type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7201.xml" description="Lifestyle" htmlUrl="http://online.wsj.com/page/2_1578.html"/>
 		<outline text="Politifact.com Truth-O-Meter rulings from National" type="rss" xmlUrl="http://www.politifact.com/feeds/statements/truth-o-meter/" title="Politifact.com Truth-O-Meter rulings from National" description="The latest statements PolitiFact.com has reviewed" htmlUrl="http://www.politifact.com/truth-o-meter/" language="en-us"/>
 		<outline text="Politifact.com stories from National" type="rss" xmlUrl="http://www.politifact.com/feeds/articles/truth-o-meter/" title="Politifact.com stories from National" description="The latest word on what the candidates are saying from Politifact.com" htmlUrl="http://www.politifact.com/truth-o-meter/" language="en-us"/>
-		<outline text="Posts on ri/blog" type="rss" xmlUrl="http://roaming-initiative.com/blog/blog/excerpts.xml" title="Posts on ri/blog"/>
 		<outline text="ReadWrite" type="rss" xmlUrl="http://feeds.feedburner.com/readwriteweb" title="ReadWrite" description="" htmlUrl="http://readwrite.com" language="en"/>
 		<outline text="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" title="Slashdot" description="News for nerds, stuff that matters" htmlUrl="http://slashdot.org/" language="en-us"/>
-		<outline text="Social Media" type="rss" xmlUrl="http://feeds.mashable.com/Mashable/SocialMedia?format=xml" title="Social Media" description="The latest happenings in social media, plus tips on using Twitter, Facebook, YouTube, Foursquare and other social tools on the web." htmlUrl="http://mashable.com/category/social-media/?utm_campaign=Mash-Prod-RSS-Feedburner-SocialMedia-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-SocialMedia-Partial&amp;utm_medium=feed&amp;utm_source=rss" language="en-us"/>
-		<outline text="Startup and Tech News - Madison Startups" type="rss" xmlUrl="http://www.madisonstartups.com/feed/" title="Startup and Tech News - Madison Startups" description="" htmlUrl="http://www.madisonstartups.com" language="en-US"/>
-		<outline text="Startups" type="rss" xmlUrl="http://feeds.mashable.com/Mashable/Startups?format=xml" title="Startups" description="Startups are companies set up to test business models developed around new ideas. Typically they have fewer than fifty employees. Startups are usually made up of developers and ..." htmlUrl="http://mashable.com/category/startups/?utm_campaign=Mash-Prod-RSS-Feedburner-Startups-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-Startups-Partial&amp;utm_medium=feed&amp;utm_source=rss" language="en-us"/>
-		<outline text="Subscription list for user &quot;asdonews&quot;" type="include" url="http://river4.geekity.com/lists/asdonews.opml"/>
 		<outline text="TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/TechCrunch" title="TechCrunch" description="TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web." htmlUrl="http://techcrunch.com" language="en"/>
 		<outline text="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/feed.xml" title="Techmeme" description="Tech Web, page A1" htmlUrl="http://www.techmeme.com/" language="en-us"/>
 		<outline text="TorrentFreak" type="rss" xmlUrl="http://feeds.feedburner.com/Torrentfreak" title="TorrentFreak" description="Breaking File-sharing, Copyright and Privacy News" htmlUrl="http://torrentfreak.com" language="en-US"/>
 		<outline text="VentureBeat" type="rss" xmlUrl="http://venturebeat.com/feed/" title="VentureBeat" description="News About Tech, Money and Innovation" htmlUrl="http://venturebeat.com" language="en"/>
 		<outline text="WIRED" type="rss" xmlUrl="http://feeds.wired.com/wired/index" title="WIRED" description="Top Stories" htmlUrl="http://www.wired.com" language="en-US"/>
-		<outline text="WIRED � Threat Level" type="rss" xmlUrl="http://feeds.wired.com/wired27b" title="WIRED � Threat Level" description="Theatlevel" htmlUrl="http://www.wired.com" language="en-US"/>
-		<outline text="Web - MIT Technology Review" type="rss" xmlUrl="http://www.technologyreview.com/web/rss/" title="Web - MIT Technology Review" description="" htmlUrl="http://www.technologyreview.com/stream/10107/?sort=recent" language="en"/>
 		<outline text="WordPress Planet" type="rss" xmlUrl="http://planet.wordpress.org/feed/" title="WordPress Planet" description="WordPress Planet - http://planet.wordpress.org/" htmlUrl="http://planet.wordpress.org/" language="en"/>
-		<outline text="Young Entrepreneur Council" type="rss" xmlUrl="http://feeds.feedburner.com/theyec" title="Young Entrepreneur Council" description="An Organization For Successful Young Entrepreneurs" htmlUrl="http://theyec.org" language="en-US"/>
 		</body>
 	</opml>

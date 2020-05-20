@@ -3,8 +3,8 @@
 	"homePage": { 
 		"panels": [
 			{
-				"title": "Main",
-				"river": "andrewshell.js"
+				"title": "Personal Development",
+				"river": "personaldev.js"
 				},
 			{
 				"title": "PHP",

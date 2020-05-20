@@ -2,62 +2,37 @@
 <opml version="2.0">
 	<head>
 		<title>news.andrewshell.org</title>
-		<dateModified>Fri, 02 Dec 2016 20:45:43 GMT</dateModified>
+		<dateModified>Wed, 03 Apr 2019 14:53:40 GMT</dateModified>
 		<expansionState></expansionState>
-		<lastCursor>49</lastCursor>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
-		<outline text="Dave Jafari" description="" htmlUrl="" language="en-US" title="Dave Jafari" type="rss" version="RSS2" xmlUrl="http://blog.davejafari.com/rss.xml"/>
-		<outline text="Thimbleweed Park Development Diary" type="rss" xmlUrl="http://blog.thimbleweedpark.com/rss" description="The development diary for Thimbleweed Park" htmlUrl="http://blog.thimbleweedpark.com"/>
-		<outline text="Effortless Gent" type="rss" xmlUrl="http://effortlessgent.com/feed/" description="An Honest Approach to Personal Style." htmlUrl="http://effortlessgent.com"/>
-		<outline text="Capital Entrepreneurs" type="rss" xmlUrl="http://www.capitalentrepreneurs.com/feed/" description="Fostering entrepreneurship in Madison, Wisconsin" htmlUrl="http://www.capitalentrepreneurs.com"/>
-		<outline text="Forever Jobless" type="rss" xmlUrl="http://foreverjobless.com/feed/" htmlUrl="http://foreverjobless.com"/>
-		<outline text="Seth Godin's Blog on marketing, tribes and respect" type="rss" xmlUrl="http://feeds.feedblitz.com/SethsBlog" description="Seth Godin's riffs on marketing, respect, and the ways ideas spread." htmlUrl="http://sethgodin.typepad.com/seths_blog/"/>
+		<outline text="Seth Godin's Blog" type="rss" xmlUrl="http://feeds.feedblitz.com/SethsBlog" description="Seth Godin's riffs on marketing, respect, and the ways ideas spread." htmlUrl="http://sethgodin.typepad.com/seths_blog/"/>
 		<outline text="Dave Winer ☮" type="rss" xmlUrl="http://radio3.io/users/davewiner/rss.xml" description="Developer of outliners, rivers, blogging tools, RSS aggregators, podcasting. Maker of software snacks! http://t.co/zm3UL7oRiT" htmlUrl="http://scripting.com/"/>
-		<outline text="The Invisible College" type="rss" xmlUrl="http://invcol.com/feed/" description="the first on-line and on TV esoteric school" htmlUrl="http://invcol.com"/>
 		<outline text="Dave Winer ☮" type="rss" xmlUrl="http://liveblog.co/users/davewiner/rss.xml" description="Developer of outliners, rivers, blogging tools, RSS readers, podcasting and  software snacks! http://t.co/ctzE47lsQa" htmlUrl="http://scripting.com/"/>
-		<outline text="AmazingSuperPowers: Webcomic at the Speed of Light Â» Comics" description="by Wes and Tony" htmlUrl="http://www.amazingsuperpowers.com" language="en-US" title="AmazingSuperPowers: Webcomic at the Speed of Light Â» Comics" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/amazingsuperpowers"/>
 		<outline text="AnarchoSlacker" description="My sophisticated commentary on the stuff that I do, that's totally important. I wrote some articles that were published once." htmlUrl="http://www.anarchoslacker.com" language="en-US" title="AnarchoSlacker" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/anarchoslacker"/>
-		<outline text="Ash Maurya" description="Practice Trumps Theory" htmlUrl="http://www.ashmaurya.com" language="en-US" title="Ash Maurya" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/AshMaurya"/>
 		<outline text="The Bulletproof Executive" description="The State of High Performance" htmlUrl="http://www.bulletproofexec.com" language="en-US" title="The Bulletproof Executive" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/bulletproofexec"/>
 		<outline text="Penelope Trunk Homeschooling" description="Where Penelope considers homeschooling her kids." htmlUrl="http://homeschooling.penelopetrunk.com" language="en-US" title="Penelope Trunk Homeschooling" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/PenelopeTrunkHomeschooling"/>
 		<outline text="Results Junkies" description="Thoughts on growing startups and small businesses." htmlUrl="http://resultsjunkies.com" language="en-US" title="Results Junkies" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/ResultsJunkies"/>
-		<outline text="Joe Hewitt" description="" htmlUrl="http://joehewitt.com" language="en-US" title="Joe Hewitt" type="rss" version="RSS2" xmlUrl="http://joehewitt.com/index.xml"/>
-		<outline text="Mijndert Stuij" description="" htmlUrl="" language="en-US" title="Mijndert Stuij" type="rss" version="RSS2" xmlUrl="http://mijndertstuij.nl/atom.xml"/>
-		<outline text="Jeff Lindsay" description="" htmlUrl="" language="en-US" title="Jeff Lindsay" type="rss" version="RSS2" xmlUrl="http://progrium.com/blog/atom.xml"/>
 		<outline text="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" description="Scripting News, the weblog started in 1997 that bootstrapped the blogging revolution." htmlUrl="http://scripting.com/?tab=liveblog"/>
 		<outline text="Becoming Minimalist" type="rss" xmlUrl="http://feeds.feedburner.com/becomingminimalistcom" description="Own less. Live more. Finding minimalism in a world of consumerism." htmlUrl="http://www.becomingminimalist.com"/>
-		<outline text="Self-Publishing School Blog" type="rss" xmlUrl="http://self-publishingschool.com/feed/" htmlUrl="http://self-publishingschool.com"/>
 		<outline text="The Blinking Caret" type="rss" xmlUrl="http://www.blinkingcaret.com/feed/" htmlUrl="http://www.blinkingcaret.com"/>
 		<outline text="Rad Universe" description="Retro 80's and 90's findings, mashups and perspectives... Radical skateboards, gnarly waves, tripendicular parties, bodacious babes, VHS static, turbo hyper spasmatics. Radical 8-bit acid trip, NES box art, Sk8 or die attitude, Ferrari bikini sunset fade out.REMIX EVERYTHINGAsk Rad UniverseRandom PostArchiveRad Universe on YouTubeRad Universe on FacebookRad Universe on Instagram" htmlUrl="" language="en-US" title="Rad Universe" type="rss" version="RSS2" xmlUrl="http://raduniverse.tumblr.com/rss"/>
 		<outline text="RasterWeb!" description="RasterWeb! has been publishing insights and such since 1997..." htmlUrl="" language="en" title="RasterWeb!" type="rss" version="RSS2" xmlUrl="http://rasterweb.net/raster/feed/"/>
-		<outline text="Dave Winer's linkblog feed" description="Dave Winer's linkblog. It's my personal contribution to the World Wide River." htmlUrl="http://static.scripting.com/myReallySimple/linkblog.html" language="en-us" title="Dave Winer's linkblog feed" type="rss" version="RSS2" xmlUrl="http://static.scripting.com/myReallySimple/linkblog.xml"/>
-		<outline text="Dave Winer" description="Dave Winer's &quot;Scripting News&quot; weblog, started in April 1997, bootstrapped the blogging revolution." htmlUrl="http://scripting.com/" language="en-us" title="Dave Winer" type="rss" version="RSS2" xmlUrl="http://static.scripting.com/rss.xml"/>
-		<outline text="Uncrunched" description="" htmlUrl="" language="en" title="Uncrunched" type="rss" version="RSS2" xmlUrl="http://uncrunched.com/feed/"/>
 		<outline text="Mathias Verraes" type="rss" xmlUrl="http://verraes.net/feed.atom" htmlUrl="http://verraes.net/"/>
-		<outline text="Loïc Faugeron " type="rss" xmlUrl="http://gnugat.github.io/feed/atom.xml" description="Technical articles about Symfony and TDD" htmlUrl="http://gnugat.github.io/"/>
-		<outline text="pmjones's RSS Feed" type="rss" xmlUrl="http://tweetstorss.geekity.com/pmjones.xml" description="A feed generated from pmjones's tweets by https://github.com/scripting/tweetsToRss" htmlUrl="http://twitter.com/pmjones/"/>
 		<outline text="Rad Universe" description="" htmlUrl="" language="en-US" title="Rad Universe" type="rss" version="RSS2" xmlUrl="http://www.raduniverse.com/feed/"/>
-		<outline text="Clay Shirky" description="" htmlUrl="" language="en-US" title="Clay Shirky" type="rss" version="RSS2" xmlUrl="http://www.shirky.com/weblog/feed/"/>
-		<outline text="The Smart Passive Income Blog" description="" htmlUrl="http://www.smartpassiveincome.com/" language="en-US" title="The Smart Passive Income Blog" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/smartpassiveincome"/>
-		<outline text="TJ Holowaychuk" description="" htmlUrl="http://tjholowaychuk.com/" language="en-US" title="TJ Holowaychuk" type="rss" version="RSS2" xmlUrl="http://tjholowaychuk.com/rss"/>
-		<outline text="Fabien Potencier" description="" htmlURL="http://fabien.potencier.org/" language="en" title="Fabien Potencier" type="rss" version="RSS2" xmlUrl="http://feeds.fabien.potencier.org/aidedecamp"/>
-		<outline text="Uploads by Larry Shell" description="" htmlUrl="" language="en" title="Uploads by Larry Shell" type="rss" version="RSS2" xmlUrl="http://gdata.youtube.com/feeds/base/users/renzinthewoods/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile"/>
-		<outline text="8th Light Blog" description="" htmlUrl="http://blog.8thlight.com/" language="en" title="8th Light Blog" type="rss" version="RSS2" xmlUrl="http://blog.8thlight.com/feed/atom.xml"/>
-		<outline text="Recent Commits to river4:master" description="" htmlUrl="https://github.com/scripting/river4/commits/master" language="en" title="Recent Commits to river4:master" type="rss" version="RSS2" xmlUrl="https://github.com/scripting/river4/commits/master.atom"/>
-		<outline text="Liip Blog" type="rss" xmlUrl="http://blog.liip.ch/rss.xml" htmlUrl="https://blog.liip.ch"/>
-		<outline text="The Art of Non-Conformity » Work" type="rss" xmlUrl="http://chrisguillebeau.com/category/work/feed/" description="Unconventional Strategies for Life, Work, and Travel" htmlUrl="http://chrisguillebeau.com"/>
-		<outline text="The Art of Non-Conformity » Life" type="rss" xmlUrl="http://chrisguillebeau.com/category/life-planning/feed/" description="Unconventional Strategies for Life, Work, and Travel" htmlUrl="http://chrisguillebeau.com"/>
 		<outline text="Martin Fowler" type="rss" xmlUrl="http://martinfowler.com/feed.atom" description="Master feed of news and updates from martinfowler.com" htmlUrl="http://martinfowler.com/"/>
-		<outline text="Zero To Launch" type="rss" xmlUrl="http://zerotolaunchsystem.com/feed/" description="Zero to Launch is the step-by-step system for starting a successful online business." htmlUrl="http://zerotolaunchsystem.com"/>
-		<outline text="I Will Teach You To Be Rich" type="rss" xmlUrl="http://www.iwillteachyoutoberich.com/feed/" description="by Ramit Sethi" htmlUrl="http://www.iwillteachyoutoberich.com"/>
-		<outline text="Small Business Marketing Ideas: Psychological Marketing Tactics" type="rss" xmlUrl="http://www.psychotactics.com/feed/" description="Why Customers Buy (And Why They Don't)" htmlUrl="http://www.psychotactics.com"/>
-		<outline text="Ionic Framework" description="The official Ionic Framework blog" htmlUrl="http://ionicframework.com" language="en" title="Ionic Framework" type="rss" version="RSS2" xmlUrl="http://ionicframework.com/blog/feed.xml"/>
+		<outline text="Small Business Marketing Ideas" type="rss" xmlUrl="http://www.psychotactics.com/feed/" description="Why Customers Buy (And Why They Don't)" htmlUrl="http://www.psychotactics.com"/>
+		<outline text="The Official Ionic Blog" type="rss" xmlUrl="http://blog.ionic.io/feed/" description="Build amazing native and progressive web apps with HTML5" htmlUrl="http://blog.ionic.io"/>
 		<outline text="Dorie Clark" type="rss" xmlUrl="http://dorieclark.com/feed/" description="Marketing Strategist &amp; Keynote Speaker" htmlUrl="http://dorieclark.com"/>
 		<outline text="spencerXsmith" type="rss" xmlUrl="http://www.spencerxsmith.com/feed/" htmlUrl="http://www.spencerxsmith.com"/>
-		<outline text="dev-human" type="rss" xmlUrl="http://dev-human.com/atom.xml" htmlUrl="/"/>
-		<outline text="Evbogue.com" type="rss" xmlUrl="https://evbogue.com/rss.xml" description="Evbogue.com" htmlUrl="http://evbogue.com/"/>
 		<outline text="Yegor Bugayenko" type="rss" xmlUrl="http://www.yegor256.com/rss.xml" description="Yegor Bugayenko" htmlUrl="http://www.yegor256.com"/>
-		<outline text="Scott Adams' Blog" type="rss" xmlUrl="http://feed.dilbert.com/dilbert/blog" description="" htmlUrl="http://blog.dilbert.com/"/>
+		<outline text="Mondo 2000" type="rss" xmlUrl="http://www.mondo2000.com/feed/" htmlUrl="http://www.mondo2000.com"/>
+		<outline text="Neon Dystopia" type="rss" xmlUrl="https://www.neondystopia.com/feed/" description="Cyberpunk films, games, music and more!" htmlUrl="https://www.neondystopia.com"/>
+		<outline text="Farnam Street" type="rss" xmlUrl="https://www.farnamstreetblog.com/feed/" htmlUrl="https://www.farnamstreetblog.com"/>
+		<outline text="Delicious Brains" type="rss" xmlUrl="https://deliciousbrains.com/feed/" htmlUrl="https://deliciousbrains.com"/>
+		<outline text="The Knife Media" type="rss" xmlUrl="https://www.theknifemedia.com/feed/" htmlUrl="https://www.theknifemedia.com"/>
+		<outline text="The Information" type="rss" xmlUrl="https://www.theinformation.com/feed" htmlUrl="https://www.theinformation.com/"/>
+		<outline text="Stratechery by Ben Thompson" type="rss" xmlUrl="https://stratechery.com/feed/" description="On the business, strategy, and impact of technology." htmlUrl="https://stratechery.com/"/>
 		</body>
 	</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Personal Development</title>
+		<dateModified>Tue, 26 Jun 2018 21:51:43 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>1</lastCursor>
+		</head>
+	<body>
+		<outline text="newest submissions : selfimprovement" type="rss" xmlUrl="https://www.reddit.com/r/selfimprovement/new.xml" description="This subreddit is for those who have questions about how to improve any aspects of their lives" htmlUrl="https://www.reddit.com/r/selfimprovement/new"/>
+		<outline text="newest submissions : Habits" type="rss" xmlUrl="https://www.reddit.com/r/Habits/new.xml" description="R/Habits is a place to share news and discuss the formation, cessation, and alteration of habits in people." htmlUrl="https://www.reddit.com/r/Habits/new"/>
+		<outline text="newest submissions : productivity" type="rss" xmlUrl="https://www.reddit.com/r/productivity/new.xml" description="Tips and tricks for being more productive" htmlUrl="https://www.reddit.com/r/productivity/new"/>
+		<outline text="newest submissions : getdisciplined" type="rss" xmlUrl="https://www.reddit.com/r/getdisciplined/new.xml" description="A subreddit for people who have issues with procrastination, motivation, and discipline. It is a great place to gather to meet others with a similar mindset. Meet your goals and improve your life, reddit style!" htmlUrl="https://www.reddit.com/r/getdisciplined/new"/>
+		<outline text="Stories by Michael Simmons on Medium" type="rss" xmlUrl="https://medium.com/feed/@michaeldsimmons" description="Stories by Michael Simmons on Medium" htmlUrl="https://medium.com/@michaeldsimmons?source=rss-f7f26f637e82------2"/>
+		<outline text="Stories by Benjamin P. Hardy on Medium" type="rss" xmlUrl="https://medium.com/feed/@benjaminhardy" description="Stories by Benjamin P. Hardy on Medium" htmlUrl="https://medium.com/@benjaminhardy?source=rss-5153880ce2ee------2"/>
+		<outline text="BestSelf Blog" type="rss" xmlUrl="https://blog.bestself.co/feed/" description="Meaningful products that help people become their Best Self" htmlUrl="https://blog.bestself.co/"/>
+		<outline text="SUCCESS - Personal Development" type="rss" xmlUrl="http://www.success.com/taxonomy/term/11/feed" htmlUrl="http://www.success.com/sections/personal-development"/>
+		<outline text="Brian Tracy’s Self Improvement &amp; Professional Development Blog" type="rss" xmlUrl="https://www.briantracy.com/blog/feed/" description="Brian Tracy's self improvement and professional development blog features weekly articles to help you achieve success faster than you ever thought possible." htmlUrl="https://www.briantracy.com/blog"/>
+		<outline text="Blog – Stryvers" type="rss" xmlUrl="https://stryvers.com/blog/feed/" description="Achieve Anything" htmlUrl="https://stryvers.com/"/>
+		</body>
+	</opml>
